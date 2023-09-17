@@ -55,3 +55,9 @@ If you encounter any issues or have questions, please feel free to reach out for
 This script was created by Saheel.Faisal , Shravani.Koli , Albin.Thomas and Ananya kaushik as a demonstration of hand gesture control using Python. It uses the `cvzone`, `pyautogui`, `screen_brightness_control`, `pycaw`, and `comtypes` libraries. 
 
 Enjoy controlling your computer with hand gestures!
+
+
+
+## Resources 
+youtube video :
+https://youtu.be/9iEPzbG-xLE?si=BcNGkHYyhX79sHuX
