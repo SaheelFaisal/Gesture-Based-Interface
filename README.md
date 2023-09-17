@@ -56,6 +56,10 @@ This script was created by Saheel.Faisal , Shravani.Koli , Albin.Thomas and Anan
 
 Enjoy controlling your computer with hand gestures!
 
+## Resources 
+youtube video that we used to learn about : https://youtu.be/9iEPzbG-xLE?si=BcNGkHYyhX79sHuX
+
+
 
 
 ## Resources 
