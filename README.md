@@ -59,9 +59,3 @@ Enjoy controlling your computer with hand gestures!
 ## Resources 
 youtube video that we used to learn about : https://youtu.be/9iEPzbG-xLE?si=BcNGkHYyhX79sHuX
 
-
-
-
-## Resources 
-youtube video :
-https://youtu.be/9iEPzbG-xLE?si=BcNGkHYyhX79sHuX
